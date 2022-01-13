@@ -4,9 +4,9 @@ Analyzing Credit Card Attrition and Survival Time
 
 2. Contents: 
 
-1. JMP Data file with all models stores
-2. Business Presentation
-3. White paper document
+a. JMP Data file with all models stores
+b. Business Presentation
+c. White paper document
 
 3. Introduction
 
@@ -27,11 +27,11 @@ face today. In spite of an increase in the number of new credit cards issued, th
 analyze the credit card data to derive insights, influencing factors, and probability of a customer churn.
 
 Goals of Our Analysis
-I. Look for influential factors that lead to customer churn.
-II. Show behavior of credit limit with different categories of variables.
-III. Predict the relationship of the customer with the bank based on gender, income in a
+a. Look for influential factors that lead to customer churn.
+b. Show behavior of credit limit with different categories of variables.
+c. Predict the relationship of the customer with the bank based on gender, income in a
 year.
-IV. Look for factors that influence transaction patterns.
+d. Look for factors that influence transaction patterns.
 
 
 4. Technologies
