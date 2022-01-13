@@ -2,13 +2,7 @@
 
 Analyzing Credit Card Attrition and Survival Time
 
-2. Contents: 
-
-a. JMP Data file with all models stores
-b. Business Presentation
-c. White paper document
-
-3. Introduction
+2. Introduction
 
 Background
 Credit Card processing companies play a significant role in the finance and payment ecosystem. According to a report from Business Insider, the credit card is expected to remain
@@ -33,8 +27,7 @@ c. Predict the relationship of the customer with the bank based on gender, incom
 year.
 d. Look for factors that influence transaction patterns.
 
-
-4. Technologies
+3. Technologies
 
 JMP Pro - For data exploration and building analytical models namely linear regression, neural network, decision trees
 
@@ -42,12 +35,12 @@ Excel - Initial data cleaning and
 
 Tableau - Data Visualization
 
-5. Dataset
+4. Dataset
 
 Source: Kaggle
 https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv
 
-6. Project Status
+5. Project Status
 
 Completed on December 2021
 
