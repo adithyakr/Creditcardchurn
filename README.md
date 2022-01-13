@@ -1,4 +1,4 @@
-1. Project Name ->
+1. Project Name
 
 Analyzing Credit Card Attrition and Survival Time
 
@@ -21,7 +21,7 @@ c. Predict the relationship of the customer with the bank based on gender, incom
 year.
 d. Look for factors that influence transaction patterns.
 
-3. Technologies ->
+3. Technologies
 
 JMP Pro - For data exploration and building analytical models namely linear regression, neural network, decision trees
 
@@ -29,12 +29,12 @@ Excel - Initial data cleaning and
 
 Tableau - Data Visualization
 
-4. Dataset ->
+4. Dataset
 
 Source: Kaggle
 https://www.kaggle.com/sakshigoyal7/credit-card-customers?select=BankChurners.csv
 
-5. Project Status ->
+5. Project Status
 
 Completed on December 2021
 
